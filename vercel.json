@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-cdhqklxi7-caohuanfighting.vercel.app/:match*"
+    }
+  ]
+}
